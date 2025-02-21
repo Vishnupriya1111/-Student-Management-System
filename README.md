@@ -77,3 +77,13 @@ WHERE StudentID = 3;
 
 -- Verify the update
 SELECT * FROM Students WHERE StudentID = 3;
+How to Execute
+  Open MySQL Workbench or any SQL tool.
+  Connect to your MySQL server.
+  Copy and paste the above code into a new SQL script file.
+  Execute the code step by step:
+  First, create the database and table.
+  Then, insert the sample data.
+  Finally, perform the tasks and analyze the results.
+
+
